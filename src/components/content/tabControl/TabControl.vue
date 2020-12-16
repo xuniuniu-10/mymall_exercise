@@ -38,6 +38,7 @@ export default {
     text-align: center;
     font-size: 16px;
     background-color: #fff;
+    /* margin-bottom: 10px; */
   }
   .tab-control-item {
     flex: 1;
